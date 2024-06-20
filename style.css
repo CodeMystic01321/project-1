@@ -1,0 +1,28 @@
+p{
+    text-align: center;
+    color: green;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: cursive;
+}
+h3{
+    text-align: center;
+    color: silver;
+    font-family: cursive;
+}
+body{
+    background-color: orange;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+h4{
+    color: red;
+    font-family: cursive;
+    text-align: center;
+}
